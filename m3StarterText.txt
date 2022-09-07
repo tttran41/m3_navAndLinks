@@ -26,7 +26,7 @@ Relative Hyperlinks
 Relative hyperlinks are used when links are needed to a page within your own website. When coding navigation, relative links are used because the links are to other pages within the same site.
 
 E-Mail Hyperlinks
-Email hyperlinks will automatically launch the user's default mail program. Unfortunately, sites that have coded email hyperlinks may have an issue with spam. The trend today is to use contact forms rather than email addresses, or include the address in the website as content rather than an email link. However, for practice, code your name linking to your ASU email address here: youremail@asu.edu
+Email hyperlinks will automatically launch the user's default mail program. Unfortunately, sites that have coded email hyperlinks may have an issue with spam. The trend today is to use contact forms rather than email addresses, or include the address in the website as content rather than an email link. However, for practice, code your name linking to your ASU email address here: tttran41@asu.edu
 	
 
 Fragment Hyperlinks
